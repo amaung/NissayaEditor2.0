@@ -1,0 +1,6 @@
+obj/Debug/NissayaEditor.csproj.FileListAbsolute.txt:\\DS118\home\Software\Hintha Consultant Company\DhammaYaungchi\NissayaEditor\NissayaEditor\obj\Debug\NissayaEditor.Form1.resources
+obj/Debug/NissayaEditor.csproj.FileListAbsolute.txt:\\DS118\home\Software\Hintha Consultant Company\DhammaYaungchi\NissayaEditor\NissayaEditor - 2021-02-07\NissayaEditor\obj\Debug\NissayaEditor.Form1.resources
+obj/Debug/NissayaEditor.csproj.FileListAbsolute.txt:\\DS118\home\Software\Hintha Consultant Company\DhammaYaungchi\NissayaEditor\NissayaEditor\NissayaEditor\obj\Debug\NissayaEditor.Form1.resources
+obj/Debug/NissayaEditor.csproj.FileListAbsolute.txt:S:\Hintha Consultant Company\DhammaYaungchi\NissayaEditor\NissayaEditor2.0\NissayaEditor\obj\Debug\NissayaEditor.Form1.resources
+obj/Release/NissayaEditor.csproj.FileListAbsolute.txt:\\DS118\home\Software\Hintha Consultant Company\DhammaYaungchi\NissayaEditor\NissayaEditor\obj\Release\NissayaEditor.Form1.resources
+obj/Release/NissayaEditor.csproj.FileListAbsolute.txt:\\DS118\home\Software\Hintha Consultant Company\DhammaYaungchi\NissayaEditor\NissayaEditor\NissayaEditor\obj\Release\NissayaEditor.Form1.resources

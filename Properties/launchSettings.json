@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NissayaEditor": {
+      "commandName": "Project",
+      "commandLineArgs": "-verbosity:diag"
+    }
+  }
+}

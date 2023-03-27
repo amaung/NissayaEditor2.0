@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory />
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ErrorReporter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExportConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FindCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_ErrMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_FullPageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_ImportSuttaData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Messages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_PageReadingView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_ServerSuttaDownload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_UserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_WorkAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUIEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MessagingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MessagingForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MN Catalogcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyToolTip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NissayaDataGridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NissayaRichTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NissayaTabPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NissayaTabThread.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PageMenuBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Properties\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpellingCheckerSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SuttaSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThreadCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
